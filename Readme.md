@@ -1,4 +1,4 @@
-## The simplistic way to add (FREE) chatbot in your application using `Tidio`
+## The simplistic way to add (FREE) chatbot in your application using `Tidio` in a minute
 
 1. Register on https://www.tidio.com/ & complete the setup.
 
@@ -7,3 +7,5 @@
 3. Customize what you want in the Tidio dashboard like upgrading free tier & analytics.
 
 4. And that's it! [view our live example NOW!](tidio-app.github.io).
+
+![Screenshot](./image.png)
