@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 ## The simplistic way to add a (FREE) chatbot in your application using `Tidio` in a minute
 
 1. Register on https://www.tidio.com/ & complete the setup.
